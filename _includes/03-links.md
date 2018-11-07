@@ -1,1 +1,1 @@
-([voting is important] (https://www.google.com/search?safe=strict&rlz=1C1CHBFenUS765US765&site=async/eer_r&q=Democratic+Party&stick=H4sIAAAAAAAAAOMwUeLUz9U3SDEwN819xOjMLfDyxz1hKatJa05eYzTh4grOyC93zSvJLKkUUuNig7JkuHilELo0GKS4uRBcHgDIIYJRUwAAAA&sa=X&ved=2ahUKEwjgiJmCisHeAhUELnwKHdwHDyAQ-6cCKAF6BAgBEBM&biw=1148&bih=654))
+([voting is important] (https://github.com/cowsicle/markdown-portfolio/pull/3/files#diff-d55e91ea0f7f81375348a74fad4e4e42))
